@@ -19,4 +19,4 @@
 - **Email and file encryption package:** [Gpg4win](https://www.gpg4win.org/)
 - **Network troubleshooting, analysis, software:** [Wireshark](https://www.wireshark.org/)
 - **Vector graphics editor:** [Inkscape Project](https://inkscape.org/)
-- **Video downloader:** [ClipGrab](https://clipgrab.de/update/en)
+- **Video downloader:** [4K Video Downloader](https://www.4kdownload.com/)
