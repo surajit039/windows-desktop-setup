@@ -15,7 +15,7 @@
 - **Create bootable USB flash drives:** [Ventoy](https://github.com/ventoy/Ventoy/releases)
 - **Screen recording program:** [ShareX](https://getsharex.com/)
 - **BitTorrent client software:** [Transmission](https://transmissionbt.com/download/)
-- **Microsoft Edge extension:** [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) [Two-factor Authenticator](https://authenticator.cc/)
+- **Microsoft Edge extension:** [uBlock Origin](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) & [Two-factor Authenticator](https://authenticator.cc/)
 - **Image editing software:** [GIMP](https://www.gimp.org/)
 - **Tools for comparing files, directories:** [Meld](https://meldmerge.org/)
 - **Audio editor and recording application software:** [Audacity](https://www.audacityteam.org/download/)
