@@ -8,3 +8,6 @@
 - **BitTorrent client software:** [Transmission](https://transmissionbt.com/download/)
 - **Image editing software:** [GIMP](https://www.gimp.org/)
 - **Video downloader:** [ClipGrab (Download version without third-party offers)](https://clipgrab.org/)
+- **PDF Reader** [Sumatra PDF](https://www.sumatrapdfreader.org/)
+- **Image Tweaker** [FastStone Photo Resizer](https://www.faststone.org/FSResizerDownload.htm)
+- **Markdown Writter** [Markdown Preview Enhanced by Yiyi Wang](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
